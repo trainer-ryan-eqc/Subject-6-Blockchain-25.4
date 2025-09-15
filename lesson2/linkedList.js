@@ -7,6 +7,7 @@ class Node {
   }
 }
 
+
 /* 
 
 What is a Node?
