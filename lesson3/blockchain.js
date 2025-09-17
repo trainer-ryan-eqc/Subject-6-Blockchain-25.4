@@ -1,5 +1,4 @@
 const crypto = require("crypto");
-const { diff } = require("util");
 
 
 // HASHING FUNCTION
